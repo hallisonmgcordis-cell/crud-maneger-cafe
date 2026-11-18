@@ -1,0 +1,21 @@
+* 
+{
+	font-family: 'Fira Sans', 'Open Sans', sans-serif;
+}
+
+.alert {
+  position: absolute;
+  width: 98%;
+  z-index:999;
+}
+
+
+/* Tela de login */
+.login-page {
+  background-color: #f5f5f5;
+}
+
+.login-box {
+  max-width: 380px;
+  margin: 80px auto 0 auto;
+}
